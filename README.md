@@ -2,41 +2,41 @@
 
 <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="280"/>
 
-## 👋 Hi, I’m Aryan
+## 👋 Hey, I’m Aryan
 
-Software Engineer with a focus on **backend systems, automation, and real-world problem solving**.  
-M.Eng student @ McMaster University.
+I’m a software engineer who enjoys building **reliable backend systems**, automating messy workflows, and turning vague problems into working solutions.  
+Currently an M.Eng student at **McMaster University**.
 
-I care about **clean logic, strong fundamentals, and systems that don’t break in production**.
-
----
-
-## What I build
-- Backend services & automation
-- Distributed / cloud-native systems
-- Internal tooling & integrations
+I like code that’s **simple, readable, and hard to break** — and I’m actively strengthening my fundamentals by building real things, not just following tutorials.
 
 ---
 
-## Tech stack
+## What I like working on
+- Backend services and automation
+- Distributed and cloud-native systems
+- Internal tools that make engineers’ lives easier
+
+---
+
+## Tools I use
 - **Languages:** Java, Python, JavaScript, Groovy, SQL  
 - **Backend & Infra:** AWS, Docker, Kubernetes, Terraform  
 - **Dev Tools:** Git, Linux, CI/CD (Jenkins)
 
 ---
 
-## Selected work
+## A few things I’ve built
 - **Distributed Log Analytics System**  
-  Event ingestion with Kinesis → Lambda → Athena (IaC with Terraform)
+  Event ingestion using Kinesis → Lambda → Athena, provisioned with Terraform
 
 - **Smart Manufacturing Quality Control**  
-  Computer vision system for real-time defect detection on edge devices
+  Real-time defect detection using computer vision on edge devices
 
 - **Fetal Health Classification Pipeline**  
-  End-to-end ML pipeline with strong evaluation metrics
+  End-to-end ML pipeline with strong evaluation and validation metrics
 
 ---
 
-📫 **Contact**
+📫 **Let’s connect**
 - Email: aryanssingh4374@gmail.com  
 - LinkedIn: https://linkedin.com/in/your-link
