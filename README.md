@@ -15,7 +15,7 @@ $ ls -R /skills/
   [cite_start]├── infrastructure/ # AWS, Docker, Kubernetes, Terraform, Ansible 
   [cite_start]├── automation/     # Jenkins, GitHub Actions 
   [cite_start]└── data_stores/    # PostgreSQL, MongoDB, Athena, ELK Stack
-
+```
 ### 📈 System Status: Professional Experience
 
 #### **[0x01] TD Bank Group** | *Software Engineer Intern* | `Sep 2025 - Present`
