@@ -1,11 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Aryan%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn)
-
-<img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="280"/>
+<img align="right" src="https://media.giphy.com/media/bouVqX0sAe93CCBFyj/giphy.gif" width="260"/>
 
 ## 👋 Hey, I’m Aryan
 
-I’m a software engineer who enjoys building **backend systems, CI/CD pipelines, and automation that actually holds up in production**.  
-Currently an M.Eng student at **McMaster University** and a **Software Engineering Intern at TD Bank**.
+I’m a software engineer focused on building **reliable backend systems**, **CI/CD pipelines**, and **automation that holds up under real-world conditions**.  
+Currently an **M.Eng student at McMaster University** with a strong interest in systems, infrastructure, and developer productivity.
 
 I care about **clear logic, strong fundamentals, and systems that fail loudly instead of silently**.
 
@@ -19,24 +17,23 @@ I care about **clear logic, strong fundamentals, and systems that fail loudly in
 ---
 
 ## Tools I use
-- **Languages:** Java, Python, JavaScript, Groovy, SQL  
+- **Languages:** Java, Python, JavaScript, Groovy, SQL, Bash  
 - **Cloud & Infra:** AWS, Docker, Kubernetes, Terraform, Ansible  
-- **Dev Tools:** Git, Linux, Jenkins, GitHub Actions  
+- **CI/CD & DevOps:** Jenkins, GitHub Actions  
+- **Datastores & Analytics:** PostgreSQL, MySQL, MongoDB, Athena  
+- **Dev Tools:** Git, Linux  
 
 ---
 
 ## Things I’ve built or shipped
-- **Secure CI/CD & CRM Pipelines (TD Bank)**  
-  Designed Vault-backed secret management and standardized deployment prechecks, reducing misconfigurations by 30% and improving deployment speed by 20%
-
 - **Distributed Log Analytics System**  
-  Event-driven pipeline using AWS Kinesis, Lambda, S3, and Athena, processing 50K+ events per second while cutting infra costs by 35%
+  Event-driven pipeline using AWS Kinesis, Lambda, S3, and Athena, designed for high-throughput ingestion and cost-efficient querying
 
 - **Smart Manufacturing Quality Control**  
-  Real-time defect detection using computer vision on edge devices
+  Real-time defect detection using computer vision on edge devices, optimized for throughput and accuracy
 
 - **Fetal Health Classification Pipeline**  
-  End-to-end ML pipeline achieving 95%+ F1 score with strong validation and evaluation practices
+  End-to-end ML pipeline with strong evaluation practices, achieving 95%+ F1 score
 
 ---
 
