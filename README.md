@@ -4,39 +4,42 @@
 
 ## 👋 Hey, I’m Aryan
 
-I’m a software engineer who enjoys building **reliable backend systems**, automating messy workflows, and turning vague problems into working solutions.  
-Currently an M.Eng student at **McMaster University**.
+I’m a software engineer who enjoys building **backend systems, CI/CD pipelines, and automation that actually holds up in production**.  
+Currently an M.Eng student at **McMaster University** and a **Software Engineering Intern at TD Bank**.
 
-I like code that’s **simple, readable, and hard to break** — and I’m actively strengthening my fundamentals by building real things, not just following tutorials.
+I care about **clear logic, strong fundamentals, and systems that fail loudly instead of silently**.
 
 ---
 
-## What I like working on
-- Backend services and automation
-- Distributed and cloud-native systems
-- Internal tools that make engineers’ lives easier
+## What I work on
+- Backend services and internal tooling  
+- CI/CD, automation, and deployment pipelines  
+- Distributed and cloud-native systems  
 
 ---
 
 ## Tools I use
 - **Languages:** Java, Python, JavaScript, Groovy, SQL  
-- **Backend & Infra:** AWS, Docker, Kubernetes, Terraform  
-- **Dev Tools:** Git, Linux, CI/CD (Jenkins)
+- **Cloud & Infra:** AWS, Docker, Kubernetes, Terraform, Ansible  
+- **Dev Tools:** Git, Linux, Jenkins, GitHub Actions  
 
 ---
 
-## A few things I’ve built
+## Things I’ve built or shipped
+- **Secure CI/CD & CRM Pipelines (TD Bank)**  
+  Designed Vault-backed secret management and standardized deployment prechecks, reducing misconfigurations by 30% and improving deployment speed by 20%
+
 - **Distributed Log Analytics System**  
-  Event ingestion using Kinesis → Lambda → Athena, provisioned with Terraform
+  Event-driven pipeline using AWS Kinesis, Lambda, S3, and Athena, processing 50K+ events per second while cutting infra costs by 35%
 
 - **Smart Manufacturing Quality Control**  
   Real-time defect detection using computer vision on edge devices
 
 - **Fetal Health Classification Pipeline**  
-  End-to-end ML pipeline with strong evaluation and validation metrics
+  End-to-end ML pipeline achieving 95%+ F1 score with strong validation and evaluation practices
 
 ---
 
 📫 **Let’s connect**
-- Email: aryanssingh4374@gmail.com  
-- LinkedIn: https://linkedin.com/in/your-link
+- Email: aryanssingh437@gmail.com  
+- LinkedIn: https://linkedin.com/in/aryansingh24
