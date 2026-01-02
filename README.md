@@ -1,5 +1,5 @@
 <img align="right" src="https://media.giphy.com/media/bouVqX0sAe93CCBFyj/giphy.gif" width="240"/>
-https://aryan-cyberpunk-portfolio.vercel.app
+
 # 0x01: system.init() — Aryan Singh
 **M.Eng @ McMaster University** | Software Engineer Intern @ TD Bank  
 
@@ -15,3 +15,6 @@ $ ls -R /skills/
 ├── infrastructure/ # AWS, Docker, Kubernetes, Terraform, Ansible 
 ├── automation/     # Jenkins, GitHub Actions 
 └── data_stores/    # PostgreSQL, MongoDB, Athena, ELK Stack
+```
+
+Checkout my portfolio- Theme is inspired from cyberpunk lol - https://aryan-cyberpunk-portfolio.vercel.app/#
