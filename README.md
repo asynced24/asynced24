@@ -17,4 +17,4 @@ $ ls -R /skills/
 └── data_stores/    # PostgreSQL, MongoDB, Athena, ELK Stack
 ```
 
-Checkout my portfolio- Theme is inspired from cyberpunk lol - https://aryan-cyberpunk-portfolio.vercel.app/#
+portfolio.init() — check it out: https://aryan-cyberpunk-portfolio.vercel.app/#
