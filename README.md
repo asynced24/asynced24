@@ -1,5 +1,4 @@
 <img align="right" src="https://media.giphy.com/media/bouVqX0sAe93CCBFyj/giphy.gif" width="260"/>
-
 ## 👋 Hey, I’m Aryan
 
 I’m a software engineer focused on building **reliable backend systems**, **CI/CD pipelines**, and **automation that holds up under real-world conditions**.  
