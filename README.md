@@ -1,41 +1,35 @@
-<img align="right" src="https://media.giphy.com/media/bouVqX0sAe93CCBFyj/giphy.gif" width="260"/>
-## 👋 Hey, I’m Aryan
+<img align="right" src="https://media.giphy.com/media/bouVqX0sAe93CCBFyj/giphy.gif" width="230"/>
 
-I’m a software engineer focused on building **reliable backend systems**, **CI/CD pipelines**, and **automation that holds up under real-world conditions**.  
-Currently an **M.Eng student at McMaster University** with a strong interest in systems, infrastructure, and developer productivity.
+# 👋 Hey, I’m Aryan
 
-I care about **clear logic, strong fundamentals, and systems that fail loudly instead of silently**.
+**Software Engineer | M.Eng Student @ McMaster University**
 
----
-
-## What I work on
-- Backend services and internal tooling  
-- CI/CD, automation, and deployment pipelines  
-- Distributed and cloud-native systems  
+I build **reliable backend systems**, **CI/CD pipelines**, and **automation** that holds up under real-world conditions. I’m passionate about systems, infrastructure, and developer productivity—prioritizing clear logic and systems that fail loudly rather than silently.
 
 ---
 
-## Tools I use
-- **Languages:** Java, Python, JavaScript, Groovy, SQL, Bash  
-- **Cloud & Infra:** AWS, Docker, Kubernetes, Terraform, Ansible  
-- **CI/CD & DevOps:** Jenkins, GitHub Actions  
-- **Datastores & Analytics:** PostgreSQL, MySQL, MongoDB, Athena  
-- **Dev Tools:** Git, Linux  
+### 🛠️ Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Java, Python, JavaScript, Groovy, SQL, Bash |
+| **Cloud & Infra** | AWS, Docker, Kubernetes, Terraform, Ansible |
+| **CI/CD** | Jenkins, GitHub Actions |
+| **Datastores** | PostgreSQL, MySQL, MongoDB, Athena |
+| **Dev Tools** | Git, Linux |
 
 ---
 
-## Things I’ve built or shipped
-- **Distributed Log Analytics System**  
-  Event-driven pipeline using AWS Kinesis, Lambda, S3, and Athena, designed for high-throughput ingestion and cost-efficient querying
+### 🚀 Featured Projects
 
-- **Smart Manufacturing Quality Control**  
-  Real-time defect detection using computer vision on edge devices, optimized for throughput and accuracy
+* **Distributed Log Analytics System** *Event-driven pipeline using AWS Kinesis, Lambda, S3, and Athena. Built for high-throughput ingestion and cost-efficient querying.*
 
-- **Fetal Health Classification Pipeline**  
-  End-to-end ML pipeline with strong evaluation practices, achieving 95%+ F1 score
+* **Smart Manufacturing Quality Control** *Real-time defect detection using computer vision on edge devices, optimized for throughput and accuracy.*
+
+* **Fetal Health Classification Pipeline** *End-to-end ML pipeline with rigorous evaluation practices, achieving a 95%+ F1 score.*
 
 ---
 
-📫 **Let’s connect**
-- Email: aryanssingh437@gmail.com  
-- LinkedIn: https://linkedin.com/in/aryansingh24
+### 📫 Connect with me
+[![Email](https://img.shields.io/badge/Email-aryanssingh437@gmail.com-blue?style=flat-square&logo=gmail)](mailto:aryanssingh437@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan_Singh-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/aryansingh24)
