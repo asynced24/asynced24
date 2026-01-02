@@ -3,7 +3,7 @@
 # 0x01: system.init() — Aryan Singh
 **M.Eng @ McMaster University** | Software Engineer Intern @ TD Bank  
 
-> I build stuff that actually works, breaks fast when it should, and teaches me something along the way. I live in code, CI/CD pipelines, and late-night debugging sessions.  
+> I build stuff that actually works, breaks fast when it should, and teaches me something along the way.  
 
 ---
 
