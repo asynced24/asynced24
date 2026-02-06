@@ -17,4 +17,4 @@ $ ls -R /skills/
 └── data_stores/    # PostgreSQL, MongoDB, Athena, ELK Stack
 ```
 
-portfolio.init() — check it out: [live →](https://www.ssync.xyz)
+portfolio.init() — check it out: [aryansync.com →](https://www.aryansync.com)
