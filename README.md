@@ -30,4 +30,22 @@ Hi if you've made it this far, I made **GitWrapped** to help developers share th
 
 </div>
 
-![asynced24's Dev Card](https://gitwrapped-lemon.vercel.app/api/card/asynced24)
+---
+
+## 🧬 0x02: render.devCard()
+
+<div align="center">
+
+<a target="_blank" href="https://gitwrapped-lemon.vercel.app/dashboard/asynced24">
+  <img 
+    src="https://gitwrapped-lemon.vercel.app/api/card/asynced24" 
+    alt="GitWrapped Dev Card"
+    width="500"
+  />
+</a>
+
+<br/>
+
+<sub>Generated dynamically via GitWrapped • Pokémon-inspired developer identity card</sub>
+
+</div>
