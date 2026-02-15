@@ -29,3 +29,5 @@ Hi if you've made it this far, I made **GitWrapped** to help developers share th
 <img src="https://img.shields.io/badge/Languages-6-1F2937?style=flat-square&logo=codefactor&logoColor=white" alt="Languages" /> <img src="https://img.shields.io/badge/Repositories-13-1F2937?style=flat-square&logo=github&logoColor=white" alt="Repositories" /> <img src="https://img.shields.io/badge/Top_Language-TypeScript-1F2937?style=flat-square&logo=stackblitz&logoColor=white" alt="Top Language" />
 
 </div>
+
+![asynced24's Dev Card](https://gitwrapped-lemon.vercel.app/api/card/asynced24)
