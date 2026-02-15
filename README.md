@@ -33,6 +33,7 @@ Hi if you've made it this far, I made **GitWrapped** to help developers share th
 ---
 
 ## 🧬 0x02: render.devCard()
+> Powered by [GitWrapped](https://github.com/asynced24/gitwrapped)
 
 <div align="center">
 
