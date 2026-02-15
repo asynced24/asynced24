@@ -17,4 +17,14 @@ $ ls -R /skills/
 └── data_stores/    # PostgreSQL, MongoDB, Athena, ELK Stack
 ```
 
-portfolio.init() — check it out: [aryansync.com →](https://www.aryansync.com)
+<div align="center">
+
+<a href="https://gitwrapped-lemon.vercel.app/dashboard/asynced24">
+  <img src="https://gitwrapped-lemon.vercel.app/api/badge/asynced24?portfolio=aryansync.com&linkedin=linkedin.com%2Fin%2Faryansingh24" alt="GitWrapped Badge" />
+</a>
+
+<a href="https://gitwrapped-lemon.vercel.app/dashboard/asynced24"><img src="https://img.shields.io/badge/GitWrapped-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitWrapped" /></a> <a href="https://aryansync.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> <a href="https://linkedin.com/in/aryansingh24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<img src="https://img.shields.io/badge/Languages-6-1F2937?style=flat-square&logo=codefactor&logoColor=white" alt="Languages" /> <img src="https://img.shields.io/badge/Repositories-13-1F2937?style=flat-square&logo=github&logoColor=white" alt="Repositories" /> <img src="https://img.shields.io/badge/Profile-asynced24-1F2937?style=flat-square&logo=githubsponsors&logoColor=white" alt="Profile" />
+
+</div>
