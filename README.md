@@ -16,7 +16,7 @@ $ ls -R /skills/
 ├── automation/     # Jenkins, GitHub Actions 
 └── data_stores/    # PostgreSQL, MongoDB, Athena, ELK Stack
 ```
-Hey, also checkout GitWrapped, — a tool that lets you instantly generate custom GitHub badges!
+Hey, also checkout GitWrapped, a tool that lets you instantly generate custom GitHub badges!
 
 <div align="center">
 
