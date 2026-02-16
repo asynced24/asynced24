@@ -39,7 +39,7 @@ Hi if you've made it this far, I made **GitWrapped** to help developers share th
 
 <a target="_blank" href="https://gitwrapped-lemon.vercel.app/dashboard/asynced24">
   <img 
-    src="https://gitwrapped-lemon.vercel.app/api/card/asynced24" 
+    src="!(https://gitwrapped.aryansync.com/api/card/asynced24)" 
     alt="GitWrapped Dev Card"
     width="500"
   />
