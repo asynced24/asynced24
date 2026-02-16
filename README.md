@@ -31,18 +31,15 @@ Hi if you've made it this far, I made **GitWrapped** to help developers share th
 </div>
 
 ---
-
 ## 🧬 0x02: render.devCard()
 > Powered by [GitWrapped](https://github.com/asynced24/gitwrapped)
 
 <div align="center">
 
 <a target="_blank" href="https://gitwrapped-lemon.vercel.app/dashboard/asynced24">
-  <img 
-    src="!(https://gitwrapped.aryansync.com/api/card/asynced24)" 
-    alt="GitWrapped Dev Card"
-    width="500"
-  />
+  
+![asynced24's Dev Card](https://gitwrapped.aryansync.com/api/card/asynced24)
+
 </a>
 
 <br/>
