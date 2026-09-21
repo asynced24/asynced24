@@ -1,7 +1,7 @@
 <img align="right" src="https://media.giphy.com/media/bouVqX0sAe93CCBFyj/giphy.gif" width="240"/>
 
 # 0x01: system.init() — Aryan Singh
-**M.Eng @ McMaster University** | Software Engineer Intern @ TD Bank  
+**M.Eng @ McMaster University** | Full-Stack Engineer @ CAVUit  
 
 > I build stuff that actually works, breaks fast when it should, and teaches me something along the way.  
 
