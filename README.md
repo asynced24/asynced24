@@ -33,12 +33,11 @@ Hi if you've made it this far, I made **GitWrapped** to help developers share th
 ---
 ## 🧬 0x02: render.devCard()
 > Powered by [GitWrapped](https://github.com/asynced24/gitwrapped)
-
 <div align="center">
 
 <a target="_blank" href="https://gitwrapped.aryansync.com/dashboard/asynced24">
   
-![asynced24's Dev Card](https://gitwrapped.aryansync.com/api/card/asynced24?v=20260512)
+![asynced24's Dev Card](https://gitwrapped.aryansync.com/api/card/asynced24)
 
 </a>
 
